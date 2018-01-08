@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"जस्ट जावा "</string>
+    <string name="Coffee">कॉफ़ी: ₹</string>
+    <string name="Minus">-</string>
+    <string name="Plus">+</string>
+    <string name="Zero">0</string>
+    <string name="Name">नाम</string>
+    <string name="Name_submit">नाम</string>
+    <string name="Order">क्रम</string>
+    <string name="ORDER_SUMMARY">क्रम सारांश</string>
+    <string name="Qty">"मात्रा: "</string>
+    <string name="Quantity">"मात्रा: "</string>
+    <string name="Tax">कर: ₹</string>
+    <string name="ThankYou">धन्यवाद</string>
+    <string name="Toppings">टॉपिंग</string>
+    <string name="ToppingsPrice">टॉपिंग मूल्य: ₹</string>
+    <string name="Total">कुल</string>
+    <string name="One">1</string>
+    <string name="Chocochips">चोकोचिप्स</string>
+    <string name="Cinnamon">"सिनेमन "</string>
+    <string name="Nutella">"न्यूतेला "</string>
+    <string name="Waffles">वफ़ल</string>
+    <string name="WhippedCream">मलाई</string>
+</resources>

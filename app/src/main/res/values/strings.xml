@@ -1,0 +1,31 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JustJava Home</string>
+    <string name="Welcome">Welcome to JustJava</string>
+    <string name="Tagline">...where coffee can do miracles! (not literally :p)</string>
+    <string name="Name">Name</string>
+    <string name="Toppings">Toppings</string>
+    <string name="WhippedCream">Whipped Cream</string>
+    <string name="Chocochips">Chocochips</string>
+    <string name="Waffles">Waffles</string>
+    <string name="Cinnamon">Cinnamon</string>
+    <string name="Nutella">Nutella</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Minus">-</string>
+    <string name="One">1</string>
+    <string name="Plus">+</string>
+    <string name="ORDER_SUMMARY">ORDER SUMMARY</string>
+    <string name="Zero">₹0  (Tap on \'Order\' to submit and refresh...)</string>
+    <string name="Order">Order</string>
+
+    <string name="Name_submit">"Name: "</string>
+    <!--<xliff:g id="name" example="Sonam">%s</xliff:g>-->
+    <string name="Qty">"Quantity: "</string>
+    <string name="Coffee">Coffee: ₹</string>
+    <string name="ToppingsPrice">Toppings: ₹</string>
+    <string name="Tax">Tax: ₹</string>
+    <string name="Total">TOTAL: ₹</string><string name="ThankYou">Thank You!</string>
+
+    <string name="Toast_Updated">Updated...</string>
+    <string name="Toast_MaxLim">Maximum limit reached!</string>
+    <string name="Toast_MinLim">Minimum limit reached!</string>
+</resources>
